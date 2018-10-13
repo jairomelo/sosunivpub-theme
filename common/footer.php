@@ -13,7 +13,7 @@
         <?php endif; ?>
         <nav id="bottom-nav"><?php echo public_nav_main()->setMaxDepth(0); ?></nav>
         <p><a href="http://www.rehdi.co/" target="_blank"><img src="http://www.rehdi.co/images/logosmall.png?crc=4171246930"></a></p>
-        <p><?php echo __('Proudly powered by <a href="http://omeka.org">Omeka</a> '); ?>:: <a href="/sosunivpub/changelog">versión 0.94 [2018-10-13]</a></p>
+        <p><?php echo __('Proudly powered by <a href="http://omeka.org">Omeka</a> '); ?>:: <a href="/sosunivpub/changelog">versión 0.93 [2018-10-13]</a></p>
 
     </div><!-- end footer-content -->
 
