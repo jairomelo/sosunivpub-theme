@@ -9,7 +9,7 @@ $totalItems = metadata('collection', 'total_items');
 
 <?php echo all_element_texts('collection'); ?>
 
-<div id="collection-items" class="items browse">
+<div id="collection-items">
     <h2><?php echo __('Collection Items'); ?></h2>
     <?php if ($totalItems > 0): ?>
         <?php foreach (loop('items') as $item): ?>
